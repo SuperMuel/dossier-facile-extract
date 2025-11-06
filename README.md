@@ -8,7 +8,7 @@ Outil pour découper le PDF global exporté par DossierFacile en fichiers PDF in
 
 ### CLI
 ```bash
-uv run python cli.py split DossierFacile.pdf
+uv run cli.py split DossierFacile.pdf
 ```
 
 ### Web App
